@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Stylized Japanese Open Book & Bookmark Ribbon -->
+    <!-- Left Book Page -->
+    <path
+        android:fillColor="#EDEDEA"
+        android:pathData="M52,34 C44,31.5 33,33 24,37.5 L24,71.5 C33,67 44,66 52,68.5 Z" />
+    <!-- Right Book Page -->
+    <path
+        android:fillColor="#FAF9F6"
+        android:pathData="M56,34 C64,31.5 75,33 84,37.5 L84,71.5 C75,67 64,66 56,68.5 Z" />
+    <!-- Book Spine / Center Fold -->
+    <path
+        android:fillColor="#D2CFC7"
+        android:pathData="M52,34 L56,34 L56,68.5 L52,68.5 Z" />
+    <!-- Vermilion Ribbon Bookmark / Japanese Seal Hanko Accent -->
+    <path
+        android:fillColor="#C83226"
+        android:pathData="M51,32.5 L57,32.5 L57,75 L54,72 L51,75 Z" />
+    <!-- Subtle Left Page Reading Lines -->
+    <path
+        android:strokeColor="#CBC8C0"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M32,44 C38,42 43,42 48,43 M32,51 C38,49 43,49 48,50 M32,58 C38,56 43,56 48,57" />
+    <!-- Subtle Right Page Reading Lines -->
+    <path
+        android:strokeColor="#DBD8D0"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M60,43 C65,42 70,42 76,44 M60,50 C65,49 70,49 76,51 M60,57 C65,56 70,56 76,58" />
+</vector>

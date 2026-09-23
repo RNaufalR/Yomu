@@ -1,0 +1,6 @@
+{
+  "name": "Yomu",
+  "description": "Multi-format Light Novel & Ebook Reader with Ruby/Furigana typography, deep metadata inspector, and AI reading companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
